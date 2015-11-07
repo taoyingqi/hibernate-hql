@@ -8,7 +8,7 @@ JDK: jdk1.7.0_75
 
 use apache-maven-3.3.3 to do project management and comprehension tool
 
-## Review the SQL query：
+## Review the SQL：
 batch Insert
 
 Join query
